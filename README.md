@@ -6,14 +6,14 @@ The purpose of this audit was to challenge my knowlege of python to create a scr
 ## Election-Audit Results
 ### Total Votes: 369,711
 ### County Results
--Jefferson: 10.5% (38,855)
--Denver: 82.8% (306,055)
--Arapahoe: 6.7% (24,801)
+- Jefferson: 10.5% (38,855)
+- Denver: 82.8% (306,055)
+- Arapahoe: 6.7% (24,801)
 ### Largest County Turnout: Denver County
 ### Candidate Results
--Charles Casper Stockman: 23.0% (85,213)
--Diana DeGette: 73.8% (272,892)
--Raymond Anthonty Doane: 3.1% (11,606)
+- Charles Casper Stockman: 23.0% (85,213)
+- Diana DeGette: 73.8% (272,892)
+- Raymond Anthonty Doane: 3.1% (11,606)
 ### Winning Candidate: Diana DeGette
 
 ## Election-Audit Summary: 
