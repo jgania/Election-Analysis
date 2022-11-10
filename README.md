@@ -16,4 +16,5 @@ The purpose of this audit was to challenge my knowlege of python to create a scr
 -Raymond Anthonty Doane: 3.1% (11,606)
 ### Winning Candidate: Diana DeGette
 
-## Election-Audit Summary: This script can be used—with some modifications—for any election. As long as the CSV files profided are in the same three column format, this script will work for any election data. It can be expanded on if needed to account for larger pools of data and multiple other categories by creating additional for loops to interate through additional columns.
+## Election-Audit Summary: 
+This script can be used—with some modifications—for any election. As long as the CSV files profided are in the same three column format, this script will work for any election data. It can be expanded on if needed to account for larger pools of data and multiple other categories by creating additional for loops to interate through additional columns.
